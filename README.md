@@ -1,3 +1,5 @@
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 # Reddit Comment Sentiment Analysis App: Link https://reddit-post-comments-sentimentanalysis.streamlit.app/
 
 ## Description
@@ -76,9 +78,11 @@ To get started with the Reddit Comment Sentiment Analysis App, follow these step
 ## Contributing
 Contributions to the Reddit Comment Sentiment Analysis App are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the GitHub repository.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## Contact
+Mob: 9178572597
+Email: girimanaskumar1998@gmail.com
 
 ---
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 Feel free to customize the README file according to your specific project details and preferences.
